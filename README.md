@@ -18,6 +18,6 @@ cd phase-0-independent-project
 </ul>     
 </p>
 <h3>3. View the site:</h3>
-<p>Doing so is very easy. For example, to view the site, navigate to the index.html file, right click on an empty space, and choose the <em>Open with Five Server</em> option. Doing so, opens the file in your default browser. Enjoy 🍿.</p>
+<p>Doing so is very easy. For example, to view the site, navigate to the index.html file, right click on an empty space, and choose the <em>Open with Five Server</em> option. Doing so, opens the file in your default browser. Enjoy 🍿.</p> Alternatively, use this <a href="https://yahya-mohamed-1.github.io/phase-0-independent-project/">link</a> to navigate to the site on GitHub Pages 🎉
 <ins><h2>$${\color{lightgreen}Author \space and \space License}$$</h2></ins>
 <p>For any questions and/or assistance,  kindly contact <a href="https://github.com/yahya-mohamed-1/">Yahya Mohamed</a>; the repository's author. Do also take a look at the repository's <a href="https://github.com/yahya-mohamed-1/phase-0-independent-project/blob/main/LICENSE">license</a>.</p>
