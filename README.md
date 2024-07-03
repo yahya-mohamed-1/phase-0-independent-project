@@ -4,7 +4,7 @@
 <ins><h2>$${\color{lightgreen}Set \space Up \space Instructions}$$</h2></ins>
 <p>To get started with this repository, follow these steps:</p>
 <h3>1. Fork the repo, then clone the repository using the command below:</h3>
-git clone git@github.com:yahya-mohamed-1/phase-0-independent-project.git
+git clone git@github.com:your-username/phase-0-independent-project.git
 <h3>2. Navigate into the project directory using your terminal:</h3>
 cd phase-0-independent-project
 <h3>Please check if the directory contains the following listed files & fol:</h3>
